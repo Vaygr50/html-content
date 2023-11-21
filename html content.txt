@@ -1,0 +1,483 @@
+<ul class="media-list">
+                                                    
+
+<li class="listing " id="listing-440_13816952227">
+    <div class="listing-item">
+                <div title="" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-listing_account_id="907277947" data-listing_name="Like whatch​a see?" data-listing_intent="sell" data-listing_comment="8 keys" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=907277947&amp;token=HeQaGY7d" data-listing_price="8 keys" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="169190762" data-id="13816952227" data-origin="Crafted" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="402.042" data-original-title="Voodoo Juju">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>8 keys</span></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Crafted 13816952227 169190762</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                                    <a class="btn btn-xs btn-bottom btn-danger listing-remove" data-tip="top" title="Remove this listing.">
+                        <i class="fa fa-sw fa-times"></i>
+                    </a>
+
+                                            <a class="btn btn-xs btn-bottom btn-info listing-hide" data-tip="top" title="Hide this listing.">
+                            <i class="fa fa-sw fa-minus"></i>
+                        </a>
+                                    
+                                                                                
+                    <a class="btn btn-xs btn-bottom btn-default listing-relist
+                            " data-tip="top" title="" href="/classifieds/relist/440_13816952227" data-original-title="Relist this item.">
+                        <i class="fa fa-sw fa-retweet"></i>
+                    </a>
+                
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=907277947&amp;token=HeQaGY7d&amp;for_item=440_2_13816952227&amp;key=8" target="_blank" class="btn btn-bottom btn-xs
+                    btn-primary" title="" data-tip="top" data-original-title="Click to open a Trade Offer with this user. Negotiation is allowed.">
+                            <i class="fa fa-sw fa-exchange"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:47:46+00:00" title="Tue, 21 Nov 23 06:47:46 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-20T12:35:16+00:00" title="Mon, 20 Nov 23 12:35:16 +0000">about 20 hours ago</time></span>
+                by <span class="user-handle"><a class="user-link" data-offers-params="?partner=907277947&amp;token=HeQaGY7d" data-online="1" data-name="Like whatcha see?" data-id="76561198867543675" data-avatar="https://avatars.steamstatic.com/b11e724b40c70bde2ad621b00557f1ad6fb6a674_medium.jpg" data-target="#" href="/u/76561198867543675" data-original-title="" title=""><i class="fa fa-circle online" data-tip="bottom" title="Currently Online"></i> Like whatcha see?</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>8 keys </p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_172621735">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-listing_account_id="61117456" data-listing_name="chao​s_blasta" data-listing_intent="sell" data-listing_comment="Selling for 8 keys." data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=61117456&amp;token=hsQvbbV7" data-listing_buyout="1" data-listing_price="8 keys" data-equipped="1" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="172621735" data-id="172621735" data-origin="Crafted" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="402.042">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>8 keys</span></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Crafted 172621735 172621735</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=61117456&amp;token=hsQvbbV7&amp;for_item=440_2_172621735&amp;key=8" target="_blank" class="btn btn-bottom btn-xs
+                    btn-success" title="Click to open a Trade Offer with this user. Please only offer the buyout." data-tip="top">
+                            <i class="fa fa-sw fa-exchange"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:04:18+00:00" title="Tue, 21 Nov 23 06:04:18 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-20T17:54:18+00:00" title="Mon, 20 Nov 23 17:54:18 +0000">about 14 hours ago</time></span>
+                by <span class="user-handle"><a class="user-link" data-offers-params="?partner=61117456&amp;token=hsQvbbV7" data-online="0" data-name="chaos_blasta" data-id="76561198021383184" data-avatar="https://avatars.steamstatic.com/515f91dfa081a37340b3a692c1c09174df435183_medium.jpg" data-target="#" href="/u/76561198021383184"><i class="fa fa-circle-o offline" data-tip="bottom" title="Last Online 40 minutes ago"></i> chaos_blasta</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>Selling for 8 keys.</p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_13800124345">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-paint_price="2.1 keys" data-listing_account_id="1150543625" data-listing_name="Ch​ristian" data-listing_intent="sell" data-listing_comment="🔥For sale on Quicksell.store🔥 Buy it! 👉 Send a trade, visit https://quicksell.store/buy/13800124345 or use !buy Voodoo Juju 👍 Over 10k items for sale!" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=1150543625&amp;token=9t2pAB04" data-listing_buyout="1" data-listing_price="9 keys" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="270015253" data-id="13800124345" data-origin="Traded" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="424.8606" data-paint_name="A Distinctive Lack of Hue" data-paint_hex="141414">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>9 keys</span></div><div class="paint" style="background-color: #141414"></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Traded A Distinctive Lack of Hue 13800124345 270015253</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="" data-original-title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=1150543625&amp;token=9t2pAB04&amp;for_item=440_2_13800124345&amp;key=9" target="_blank" class="btn btn-bottom btn-xs
+                    btn-success" title="" data-tip="top" data-original-title="This listing is managed by a user agent. Click to open a Trade Offer. Please only offer the buyout.">
+                            <i class="fa fa-sw fa-flash"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:36:43+00:00" title="Tue, 21 Nov 23 06:36:43 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-15T19:15:02+00:00" title="Wed, 15 Nov 23 19:15:02 +0000">6 days ago</time></span>
+                by <span class="user-handle"><a class="user-link awesome3" data-offers-params="?partner=1150543625&amp;token=9t2pAB04" data-online="1" data-name="Christian" data-id="76561199110809353" data-avatar="https://avatars.steamstatic.com/61ab70962972708287fbe01bbf30a073e02557fb_medium.jpg" data-target="#" href="/u/76561199110809353" data-original-title="" title=""><i class="fa fa-circle online" data-tip="bottom" title="" data-original-title="Currently Online"></i> Christian</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>🔥For sale on Quicksell.store🔥 Buy it! 👉 Send a trade, visit https://quicksell.store/buy/13800124345 or use !buy Voodoo Juju 👍 Over 10k items for sale!</p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_13799287704">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-paint_price="2.1 keys" data-listing_account_id="1112389246" data-listing_name="2ScrapyardBot�​�️24/7" data-listing_intent="sell" data-listing_comment="⚡️24/7 INSTANT. 5k+ items (3k+ unusual) for sale. 9 keys. Offer⚡(try to take it for free, I'll counter) or chat💬me(doubleclick ctrl+c): buy_Voodoo_Juju" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=1112389246&amp;token=NzLV7mZs" data-listing_buyout="1" data-listing_price="9 keys" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="172066452" data-id="13799287704" data-origin="Crafted" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="424.8606" data-paint_name="A Distinctive Lack of Hue" data-paint_hex="141414">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>9 keys</span></div><div class="paint" style="background-color: #141414"></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Crafted A Distinctive Lack of Hue 13799287704 172066452</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=1112389246&amp;token=NzLV7mZs&amp;for_item=440_2_13799287704&amp;key=9" target="_blank" class="btn btn-bottom btn-xs
+                    btn-success" title="This listing is managed by a user agent. Click to open a Trade Offer. Please only offer the buyout." data-tip="top">
+                            <i class="fa fa-sw fa-flash"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:35:29+00:00" title="Tue, 21 Nov 23 06:35:29 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-21T04:35:20+00:00" title="Tue, 21 Nov 23 04:35:20 +0000">about 4 hours ago</time></span>
+                by <span class="user-handle"><a class="user-link awesome3" data-offers-params="?partner=1112389246&amp;token=NzLV7mZs" data-online="1" data-name="2ScrapyardBot⚡️24/7" data-id="76561199072654974" data-avatar="https://avatars.steamstatic.com/3efc1bc67029ff0bb14e0e14a46ec11587f7f4dd_medium.jpg" data-target="#" href="/u/76561199072654974" data-original-title="" title=""><i class="fa fa-circle online" data-tip="bottom" title="Currently Online"></i> 2ScrapyardBot⚡️24/7</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>⚡️24/7 INSTANT. 5k+ items (3k+ unusual) for sale. 9 keys. Offer⚡(try to take it for free, I'll counter) or chat💬me(doubleclick ctrl+c): buy_Voodoo_Juju</p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_13745694714">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-paint_price="2.1 keys" data-listing_account_id="1158280504" data-listing_name="The Herpatron 60​00! 🤖" data-listing_intent="sell" data-listing_comment="⚡ Selling 𝟭 of these for 𝟵 𝙠𝙚𝙮𝙨! 📈 Add me and type (double click for easy copy&amp;paste) buy_Voodoo_Juju | 🎨 Painted: 🎩 |" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=1158280504&amp;token=6V9o5iLN" data-listing_buyout="1" data-listing_price="9 keys" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="174037813" data-id="13745694714" data-origin="Traded" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="424.8606" data-paint_name="A Distinctive Lack of Hue" data-paint_hex="141414">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>9 keys</span></div><div class="paint" style="background-color: #141414"></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Traded A Distinctive Lack of Hue 13745694714 174037813</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=1158280504&amp;token=6V9o5iLN&amp;for_item=440_2_13745694714&amp;key=9" target="_blank" class="btn btn-bottom btn-xs
+                    btn-success" title="" data-tip="top" data-original-title="This listing is managed by a user agent. Click to open a Trade Offer. Please only offer the buyout.">
+                            <i class="fa fa-sw fa-flash"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:28:55+00:00" title="Tue, 21 Nov 23 06:28:55 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-21T02:58:01+00:00" title="Tue, 21 Nov 23 02:58:01 +0000">about 5 hours ago</time></span>
+                by <span class="user-handle"><a class="user-link xmas" data-offers-params="?partner=1158280504&amp;token=6V9o5iLN" data-online="1" data-name="The Herpatron 6000! 🤖" data-id="76561199118546232" data-avatar="https://avatars.steamstatic.com/2197923c331e3f738d949c1517fad4b93dfe92dc_medium.jpg" data-target="#" href="/u/76561199118546232" data-original-title="" title=""><i class="fa fa-circle online" data-tip="bottom" title="Currently Online"></i> The Herpatron 6000! 🤖</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>⚡ Selling 𝟭 of these for 𝟵 𝙠𝙚𝙮𝙨! 📈 Add me and type (double click for easy copy&amp;paste) buy_Voodoo_Juju | 🎨 Painted: 🎩 |</p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_13810033104">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-paint_price="2.1 keys" data-listing_account_id="881013874" data-listing_name="24our7even | !Impers​onators!" data-listing_intent="sell" data-listing_comment="Selling for 𝟵 𝗸𝗲𝘆𝘀. Add me and type 💬 (double-click for easy copy &amp; paste) &quot;𝗯𝘂𝘆_𝗩𝗼𝗼𝗱𝗼𝗼_𝗝𝘂𝗷𝘂&quot;. I have 1. | 🎨 Painted: 🎩 |" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=881013874&amp;token=F4ygHJ1K" data-listing_buyout="1" data-listing_price="9 keys" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="278410123" data-id="13810033104" data-origin="Crafted" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="424.8606" data-paint_name="A Distinctive Lack of Hue" data-paint_hex="141414">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>9 keys</span></div><div class="paint" style="background-color: #141414"></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Crafted A Distinctive Lack of Hue 13810033104 278410123</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=881013874&amp;token=F4ygHJ1K&amp;for_item=440_2_13810033104&amp;key=9" target="_blank" class="btn btn-bottom btn-xs
+                    btn-success" title="" data-tip="top" data-original-title="This listing is managed by a user agent. Click to open a Trade Offer. Please only offer the buyout.">
+                            <i class="fa fa-sw fa-flash"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:27:21+00:00" title="Tue, 21 Nov 23 06:27:21 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-21T02:57:10+00:00" title="Tue, 21 Nov 23 02:57:10 +0000">about 5 hours ago</time></span>
+                by <span class="user-handle"><a class="user-link xmas" data-offers-params="?partner=881013874&amp;token=F4ygHJ1K" data-online="1" data-name="24our7even | !Impersonators!" data-id="76561198841279602" data-avatar="https://avatars.steamstatic.com/3de427f1db7c6bb95e0b19fc455d6712da7f6854_medium.jpg" data-target="#" href="/u/76561198841279602"><i class="fa fa-circle online" data-tip="bottom" title="Currently Online"></i> 24our7even | !Impersonators!</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>Selling for 𝟵 𝗸𝗲𝘆𝘀. Add me and type 💬 (double-click for easy copy &amp; paste) "𝗯𝘂𝘆_𝗩𝗼𝗼𝗱𝗼𝗼_𝗝𝘂𝗷𝘂". I have 1. | 🎨 Painted: 🎩 |</p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_11368286860">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-paint_price="2.1 keys" data-listing_account_id="81300604" data-listing_name="Tsuki ga kirei d​esu ne" data-listing_intent="sell" data-listing_comment="♻️𝗔𝗱𝗱 𝗺𝗲 𝗳𝗼𝗿 𝗻𝗲𝗴𝗼𝘁𝗶𝗮𝘁𝗶𝗼𝗻 ● 𝗜 𝗰𝗮𝗻 𝗮𝗰𝗰𝗲𝗽𝘁 𝗶𝘁𝗲𝗺 𝗼𝗳𝗳𝗲𝗿𝘀♻️
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=81300604&amp;token=mPqBM96j" data-listing_buyout="1" data-listing_price="9 keys, 35 ref" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="169398190" data-id="11368286860" data-origin="Crafted" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="424.8606" data-paint_name="A Distinctive Lack of Hue" data-paint_hex="141414">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>9.64 keys</span></div><div class="paint" style="background-color: #141414"></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Crafted A Distinctive Lack of Hue 11368286860 169398190</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=81300604&amp;token=mPqBM96j&amp;for_item=440_2_11368286860&amp;key=9&amp;ref=35" target="_blank" class="btn btn-bottom btn-xs
+                    btn-success" title="Click to open a Trade Offer with this user. Please only offer the buyout." data-tip="top">
+                            <i class="fa fa-sw fa-exchange"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:32:34+00:00" title="Tue, 21 Nov 23 06:32:34 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-06T17:17:18+00:00" title="Mon, 06 Nov 23 17:17:18 +0000">15 days ago</time></span>
+                by <span class="user-handle"><a class="user-link awesome3" data-offers-params="?partner=81300604&amp;token=mPqBM96j" data-online="1" data-name="Tsuki ga kirei desu ne" data-id="76561198041566332" data-avatar="https://avatars.steamstatic.com/3f4cf1f09ae125d3bfb9bf9db790ceafc7a0ac0b_medium.jpg" data-target="#" href="/u/76561198041566332"><i class="fa fa-circle online" data-tip="bottom" title="Currently Online"></i> Tsuki ga kirei desu ne</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>♻️𝗔𝗱𝗱 𝗺𝗲 𝗳𝗼𝗿 𝗻𝗲𝗴𝗼𝘁𝗶𝗮𝘁𝗶𝗼𝗻 ● 𝗜 𝗰𝗮𝗻 𝗮𝗰𝗰𝗲𝗽𝘁 𝗶𝘁𝗲𝗺 𝗼𝗳𝗳𝗲𝗿𝘀♻️
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_11368286867">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-paint_price="1.85–2 keys" data-listing_account_id="81300604" data-listing_name="Tsuki g​a kirei desu ne" data-listing_intent="sell" data-listing_comment="♻️𝗔𝗱𝗱 𝗺𝗲 𝗳𝗼𝗿 𝗻𝗲𝗴𝗼𝘁𝗶𝗮𝘁𝗶𝗼𝗻 ● 𝗜 𝗰𝗮𝗻 𝗮𝗰𝗰𝗲𝗽𝘁 𝗶𝘁𝗲𝗺 𝗼𝗳𝗳𝗲𝗿𝘀♻️
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=81300604&amp;token=mPqBM96j" data-listing_buyout="1" data-listing_price="9 keys, 36 ref" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="233071079" data-id="11368286867" data-origin="Crafted" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="422.95905" data-paint_name="An Extraordinary Abundance of Tinge" data-paint_hex="e6e6e6">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>9.66 keys</span></div><div class="paint" style="background-color: #e6e6e6"></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Crafted An Extraordinary Abundance of Tinge 11368286867 233071079</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="" data-original-title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=81300604&amp;token=mPqBM96j&amp;for_item=440_2_11368286867&amp;key=9&amp;ref=36" target="_blank" class="btn btn-bottom btn-xs
+                    btn-success" title="" data-tip="top" data-original-title="Click to open a Trade Offer with this user. Please only offer the buyout.">
+                            <i class="fa fa-sw fa-exchange"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:32:34+00:00" title="Tue, 21 Nov 23 06:32:34 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-06T17:17:50+00:00" title="Mon, 06 Nov 23 17:17:50 +0000">15 days ago</time></span>
+                by <span class="user-handle"><a class="user-link awesome3" data-offers-params="?partner=81300604&amp;token=mPqBM96j" data-online="1" data-name="Tsuki ga kirei desu ne" data-id="76561198041566332" data-avatar="https://avatars.steamstatic.com/3f4cf1f09ae125d3bfb9bf9db790ceafc7a0ac0b_medium.jpg" data-target="#" href="/u/76561198041566332"><i class="fa fa-circle online" data-tip="bottom" title="Currently Online"></i> Tsuki ga kirei desu ne</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>♻️𝗔𝗱𝗱 𝗺𝗲 𝗳𝗼𝗿 𝗻𝗲𝗴𝗼𝘁𝗶𝗮𝘁𝗶𝗼𝗻 ● 𝗜 𝗰𝗮𝗻 𝗮𝗰𝗰𝗲𝗽𝘁 𝗶𝘁𝗲𝗺 𝗼𝗳𝗳𝗲𝗿𝘀♻️
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_12934439708">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-listing_account_id="100843271" data-listing_name="Blaze.xTH3R​M4Lx" data-listing_intent="sell" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=100843271&amp;token=wwxzZ6hs" data-listing_price="9 keys, 52.11 ref" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="176029250" data-id="12934439708" data-origin="Traded" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-price="402.042">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>9.96 keys</span></div><div class="icon-stack"></div>
+<span style="display:none">Unique Voodoo Juju 31 Traded 12934439708 176029250</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                            <span data-tip="top" title="This user is selling many copies of this item. Their listings have been grouped into one result.">
+                        <small>2x</small>
+                    </span>
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=100843271&amp;token=wwxzZ6hs&amp;for_item=440_2_12934439708&amp;key=9&amp;ref=52.11" target="_blank" class="btn btn-bottom btn-xs
+                    btn-primary" title="Click to open a Trade Offer with this user. Negotiation is allowed." data-tip="top">
+                            <i class="fa fa-sw fa-exchange"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:04:48+00:00" title="Tue, 21 Nov 23 06:04:48 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-06-26T22:45:09+00:00" title="Mon, 26 Jun 23 22:45:09 +0000">5 months ago</time></span>
+                by <span class="user-handle"><a class="user-link awesome2" data-offers-params="?partner=100843271&amp;token=wwxzZ6hs" data-online="0" data-name="Blaze.xTH3RM4Lx" data-id="76561198061108999" data-avatar="https://avatars.steamstatic.com/5be57950de371b5e416f0d890240b0fca5c33df8_medium.jpg" data-target="#" href="/u/76561198061108999" style="color:#b35326 !important;font-weight:none;" data-original-title="" title=""><i class="fa fa-circle-o offline" data-tip="bottom" title="Last Online 38 minutes ago"></i> Blaze.xTH3RM4Lx</a></span>
+            </span>
+        
+            </div>
+</li>                                                    
+
+<li class="listing " id="listing-440_13463131625">
+    <div class="listing-item">
+                <div title="Voodoo Juju" class="item q-440-6 q-440-border-6" data-priceindex="0" data-market_p="1543" data-market_s="12" data-paint_price="2.1 keys" data-listing_account_id="126683267" data-listing_name="2🅾️G-Buying Backpacks/K​EYs" data-listing_intent="sell" data-listing_comment="*PRICE MAY BE OUTDATED* Taking any and all offers. Taking Mixed, Pure, All Unusual offers and CASH(paypal). ADD ME to discuss, i don't bite :D! [BUYING KEYS/BPS FOR CASH]" data-listing_offers_url="https://steamcommunity.com/tradeoffer/new/?partner=126683267&amp;token=n2WkMG0Y" data-listing_price="11 keys" data-equipped="0" data-summary="Level 31 Hat" data-level="31" data-slot="misc" data-tradable="1" data-craftable="1" data-q_name="Unique" data-quality="6" data-name="Voodoo Juju" data-base_name="Voodoo Juju" data-app="440" data-defindex="289" data-original_id="198338259" data-id="13463131625" data-origin="Traded" data-p_bptf="7.4 keys" data-p_bptf_all="402.04 ref, $11.46" data-p_scm="$15.43" data-p_scm_all="541.40 ref, 9.97 keys" data-gifted_id="1526605262" data-gifted_name="Pumkat" data-price="424.8606" data-paint_name="A Distinctive Lack of Hue" data-paint_hex="141414">
+<div class="item-icon" style="background-image:url(https://steamcdn-a.akamaihd.net/apps/440/icons/voodoojuju_hat.8cf9dc510eaf5d6cbfd4fc210ff3ee0aa906db9b.png)"></div><div class="tag bottom-right"><i class="fa fa-tag"></i> <span>11 keys</span></div><div class="paint" style="background-color: #141414"></div><div class="icon-stack"><div class="gifted-item"><i class="fa fa-gift"></i></div></div>
+<span style="display:none">Unique Voodoo Juju 31 Traded A Distinctive Lack of Hue 13463131625 198338259</span></div>
+    </div>
+    <div class="listing-body">
+        <div class="listing-header">
+            <div class="listing-title">
+                <i class="fa fa-arrow-right listing-intent-sell"></i>
+                <h5>
+                    Voodoo Juju
+
+                    
+                    
+                    
+                                    </h5>
+            </div>
+            <div class="listing-buttons">
+                
+                
+                                    <a class="btn btn-xs btn-bottom btn-warning listing-report" data-tip="top" title="Report this listing.">
+                        <i class="fa fa-sw fa-flag"></i>
+                    </a>
+                
+                                                                        
+                                                            <a href="https://steamcommunity.com/tradeoffer/new/?partner=126683267&amp;token=n2WkMG0Y&amp;for_item=440_2_13463131625&amp;key=11" target="_blank" class="btn btn-bottom btn-xs
+                    btn-primary" title="Click to open a Trade Offer with this user. Negotiation is allowed." data-tip="top">
+                            <i class="fa fa-sw fa-exchange"></i>
+                        </a>
+                                                </div>
+        </div>
+
+                    <span class="text-muted click-data-toggle">
+                <span class="data1">Bumped <time class="timeago" datetime="2023-11-21T06:46:17+00:00" title="Tue, 21 Nov 23 06:46:17 +0000">about 2 hours ago</time></span>
+                <span class="data2">Listed <time class="timeago" datetime="2023-11-03T09:35:21+00:00" title="Fri, 03 Nov 23 09:35:21 +0000">18 days ago</time></span>
+                by <span class="user-handle"><a class="user-link awesome6" data-offers-params="?partner=126683267&amp;token=n2WkMG0Y" data-online="1" data-name="2🅾️G-Buying Backpacks/KEYs" data-id="76561198086948995" data-avatar="https://avatars.steamstatic.com/d04914e443a94b4c253f11062e1f6eceacd0fb57_medium.jpg" data-target="#" href="/u/76561198086948995" data-original-title="" title=""><i class="fa fa-circle online" data-tip="bottom" title="Currently Online"></i> 2🅾️G-Buying Backpacks/KEYs</a></span>
+            </span>
+        
+                    <div class="quote-box">
+                <i class="fa fa-quote-left pull-left fa-large text-muted"></i>
+                <p>*PRICE MAY BE OUTDATED* Taking any and all offers. Taking Mixed, Pure, All Unusual offers and CASH(paypal). ADD ME to discuss, i don't bite :D! [BUYING KEYS/BPS FOR CASH]</p>
+                <i class="fa fa-quote-right pull-right fa-large text-muted"></i>
+            </div>
+            </div>
+</li>                                            </ul>
